@@ -1,6 +1,7 @@
 {
-  "version": "0.1.1",
-  "build": "C5-DEV-002",
-  "downloadUrl": "https://speed.cloudflare.com/__down?bytes=5000000",
-  "notes": "Test update for the C5 Launcher."
+  "version": "0.1.0",
+  "build": "Fortnite v28.30 - CL-31511038",
+  "downloadUrl": "https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z",
+  "sha256": "8FB05B075EDF4499223D3E2C8EA64ABDE3523E52DAF6224B6921A47E192AFE22",
+  "notes": "Chapter 5 Season 1"
 }
